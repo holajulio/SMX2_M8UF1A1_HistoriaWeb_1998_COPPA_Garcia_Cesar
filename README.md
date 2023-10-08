@@ -8,14 +8,14 @@
 
  ## __Algunos aspectos clave de COPPA incluyen__
 
-    - Requisitos de notificación y obtención de consentimiento: Los sitios web y servicios en línea dirigidos a niños o que saben que están recopilando información de niños deben proporcionar notificaciones claras a los padres y obtener su consentimiento antes de recopilar, usar o divulgar información personal de los niños.
+1. Requisitos de notificación y obtención de consentimiento: Los sitios web y servicios en línea dirigidos a niños o que saben que están recopilando información de niños deben proporcionar notificaciones claras a los padres y obtener su consentimiento antes de recopilar, usar o divulgar información personal de los niños.
 
-    - Protección de la privacidad: COPPA establece estándares estrictos para la protección de la privacidad de los niños en línea, incluyendo la seguridad de la información personal.
+2. Protección de la privacidad: COPPA establece estándares estrictos para la protección de la privacidad de los niños en línea, incluyendo la seguridad de la información personal.
 
-    - Derecho de los padres: Los padres tienen el derecho de revisar la información personal de sus hijos, pedir su eliminación y negarse a que se recopile más información.
+3. Derecho de los padres: Los padres tienen el derecho de revisar la información personal de sus hijos, pedir su eliminación y negarse a que se recopile más información.
 
-    - Responsabilidades de las empresas: Las empresas deben cumplir con las regulaciones de COPPA y tomar medidas para proteger la privacidad de los niños en línea. Esto incluye el diseño de políticas de privacidad claras y la capacitación de su personal sobre cómo cumplir con la ley.
+4. Responsabilidades de las empresas: Las empresas deben cumplir con las regulaciones de COPPA y tomar medidas para proteger la privacidad de los niños en línea. Esto incluye el diseño de políticas de privacidad claras y la capacitación de su personal sobre cómo cumplir con la ley.
 
-    - Aplicación y sanciones: La FTC es la encargada de hacer cumplir COPPA y puede imponer sanciones a las empresas que no cumplan con la ley.
+5. Aplicación y sanciones: La FTC es la encargada de hacer cumplir COPPA y puede imponer sanciones a las empresas que no cumplan con la ley.
 
 ![IMAGEN](https://github.com/holajulio/SMX2_M8UF1A1_HistoriaWeb_1998_COPPA_Garcia_Cesar/blob/main/Seal_of_the_United_States_Federal_Trade_Commission.svg.png 'FTP Comision Federal de Comercio ')
