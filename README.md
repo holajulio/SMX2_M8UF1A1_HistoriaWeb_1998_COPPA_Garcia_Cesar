@@ -18,4 +18,4 @@
 
     - Aplicación y sanciones: La FTC es la encargada de hacer cumplir COPPA y puede imponer sanciones a las empresas que no cumplan con la ley.
 
-![IMAGEN]()
+![IMAGEN](https://github.com/holajulio/SMX2_M8UF1A1_HistoriaWeb_1998_COPPA_Garcia_Cesar/blob/main/Seal_of_the_United_States_Federal_Trade_Commission.svg.png 'FTP Comision Federal de Comercio ')
